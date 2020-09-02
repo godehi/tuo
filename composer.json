@@ -1,0 +1,8 @@
+{
+  "name": "godehi/test",
+  "description": "A short description of what your package does",
+  "type": "project",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {}
+}
