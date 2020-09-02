@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Godehi": "src/"
+      "Test": "src/Test"
     }
   }
 }
