@@ -6,7 +6,7 @@
  * Time: 17:53
  */
 
-namespace Godehi;
+namespace Test;
 
 
 class Test
