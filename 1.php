@@ -5,4 +5,3 @@
  * Date: 2020-09-22
  * Time: 17:27
  */
-echo 'hello';
